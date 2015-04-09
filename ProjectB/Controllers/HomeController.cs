@@ -10,7 +10,7 @@ namespace ProjectB.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View("Hello");
         }
 
         public ActionResult About()
