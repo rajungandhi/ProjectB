@@ -7,5 +7,9 @@ namespace ProjectB.Models
 {
     public class Timesheet
     {
+        public Timesheet()
+        {
+            //15.0 changes
+        }
     }
 }
